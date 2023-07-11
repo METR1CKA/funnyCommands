@@ -22,6 +22,12 @@ chmod +x *
 ./nombre_del_archivo_a_ejecutar
 ~~~
 
+o
+
+~~~
+./nombre_del_archivo_a_ejecutar --help
+~~~
+
 # **METR1CKA**
 
 > [Visitanos en DevBlogs](https://metr1cka.github.io "Pagina web")

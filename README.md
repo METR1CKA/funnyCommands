@@ -13,13 +13,13 @@ Comandos para usar en Linux/Unix
 1. Cambiar permisos
 
 ~~~console
-$ chmod +x *
+chmod +x *
 ~~~
 
 2. Ejecutar archivos
 
 ~~~console
-$ ./{archivo a ejecutar}
+./nombre_del_archivo_a_ejecutar
 ~~~
 
 # **METR1CKA**

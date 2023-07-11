@@ -24,7 +24,7 @@ chmod +x *
 
 o
 
-~~~
+~~~console
 ./nombre_del_archivo_a_ejecutar --help
 ~~~
 
